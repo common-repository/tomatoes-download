@@ -1,0 +1,32 @@
+.content-reloaded-bg {
+    padding: 0 !important;
+}
+#content-reloaded li {
+	border-bottom: 1px solid #dfdfdf;
+	border-top: 1px solid #ffffff;
+	padding: 6px 10px 8px;
+	margin: 0;
+}
+#content-reloaded li:first-child {
+	border-top-width: 0;
+}
+#content-reloaded li:last-child {
+	border-bottom-width: 0;
+}
+#content-reloaded input[type=text],
+#content-reloaded select,
+#content-reloaded .desc,
+#content-reloaded img.optionImage {
+	display: block;
+}
+#content-reloaded img.optionImage {
+	max-width: 100%;
+}
+#content-reloaded .removeImage,
+#content-reloaded .addImage,
+#content-reloaded .desc {
+	font-size: 11px;
+}
+#content-reloaded .desc {
+	color: #888;
+}

@@ -1,0 +1,331 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tomatoes Download\n"
+"POT-Creation-Date: 2014-01-17 18:52+0700\n"
+"PO-Revision-Date: 2014-01-17 18:52+0700\n"
+"Last-Translator: Selz <engineer@selz.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: E:\\xampp\\htdocs\\wptheme\\wp-content\\plugins"
+"\\tomatoes-download\n"
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/class.php:185
+msgid "There is no download file for this post."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/class.php:205
+msgid "* Login or register to download this item."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/class.php:220
+#, php-format
+msgid "Download file %s"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/dashboard.php:47
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/dashboard.php:61
+msgid "My Purchase List"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/dashboard.php:61
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:66
+msgid "Download"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:44
+msgid "There is no download. Please create at the post edit section."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:46
+msgid "You have not purchased any items."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:63
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:64
+msgid "Title"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:64
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:71
+msgid "Description"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:65
+msgid "Transaction No."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:70
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:79
+msgid "Price"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:71
+msgid "Downloaded"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:147
+msgid "Edit this item"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:147
+msgid "Edit"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:149
+msgid "View this item"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:149
+msgid "View"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:181
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/downloads-list.php:207
+msgid "download"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:36
+msgid "General"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:37
+msgid "Paypal"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:38
+msgid "Advanced"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:82
+msgid "All Downloads"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:100
+msgid "Licenses"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:115
+msgid "Metabox"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:116
+msgid "Select the post type(s) to enable the download feature."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:123
+msgid "Button Text"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:124
+msgid "The button text for purchasing item."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:126
+msgid "Purchase Now"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:130
+msgid "Free Download User"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:131
+msgid "User need to be registered and logged in to download the free item."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:140
+msgid "Live API Username"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:141
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:148
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:155
+msgid "Your live PayPal API username."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:147
+msgid "Live API Password"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:154
+msgid "Live API Signature"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:161
+msgid "Sandbox API Username"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:162
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:169
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:176
+msgid "Your test sandbox PayPal API username."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:168
+msgid "Sandbox API Password"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:175
+msgid "Sandbox API Signature"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:182
+msgid "Currency"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:183
+msgid "Currencies supported by Express Checkout and Direct Payment."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:186
+msgid "Australian Dollar"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:187
+msgid "Canadian Dollar"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:188
+msgid "Czech Koruna"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:189
+msgid "Danish Krone"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:190
+msgid "Euro"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:191
+msgid "Hong Kong Dollar"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:192
+msgid "Hungarian Forint"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:193
+msgid "Israeli New Sheqel"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:194
+msgid "Japanese Yen"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:195
+msgid "Mexican Peso"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:196
+msgid "Norwegian Krone"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:197
+msgid "Polish Zloty"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:198
+msgid "Pound Sterling"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:199
+msgid "Singapore Dollar"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:200
+msgid "Swedish Krona"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:201
+msgid "Swiss Franc"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:202
+msgid "U.S. Dollar"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:209
+msgid "Environment"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:210
+msgid ""
+"Select the PayPal environment mode. Live is the real environment, if you "
+"want to test it, please use sandbox mode with your sandbox account details."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:217
+msgid "Debug Mode"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:218
+msgid ""
+"If checked, debugging messages will be sent to the email address set below. "
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:224
+msgid "Debugging Emails"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:225
+msgid ""
+"This is a comma separated list of email addresses that will receive the "
+"debug messages."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:234
+msgid "Custom Style & Script"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/options.php:235
+msgid ""
+"Use this option to add additional styles or script with the tag included."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:73
+msgid "The file download description, supports HTML tags."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:81
+msgid "Set the price. Leave 0 for free download."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:87
+msgid "File Download"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:89
+msgid "Add file"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:91
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/lib/options.php:284
+msgid "Remove"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/post-meta.php:96
+msgid ""
+"Add [download] shortcode to your content. This meta data will be saved if "
+"file is provided."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/lib/options.php:76
+msgid "Default Field"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/lib/options.php:77
+msgid "This is a default description."
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/lib/options.php:165
+msgid "Save Changes"
+msgstr ""
+
+#: E:\xampp\htdocs\wptheme\wp-content\plugins\tomatoes-download/lib/options.php:283
+msgid "Add Image"
+msgstr ""
